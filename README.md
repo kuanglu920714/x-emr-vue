@@ -30,3 +30,4 @@ npm run build
 ```
 
 搭建Vue环境,参考 [www.vuepress.cn](https://www.vuepress.cn/guide/getting-started.html)
+项目来自 https://gitee.com/bensenplus/x-emr-vue
